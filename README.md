@@ -1,0 +1,1 @@
+# Ted's solution to the knight move challenge
