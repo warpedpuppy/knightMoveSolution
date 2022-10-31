@@ -2,8 +2,8 @@
 
 	const knight = document.querySelector('#knight'),
 	      endPoint = document.querySelector('#target'),
-		  calculatePathButton = document.querySelector("#calculate-path"),
-		  squares = [];
+		    calculatePathButton = document.querySelector("#calculate-path"),
+		    squares = [];
 	buildBoard ()
 
 	let currentPosition, target;
